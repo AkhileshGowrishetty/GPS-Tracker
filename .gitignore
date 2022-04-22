@@ -4,3 +4,4 @@ build
 platformio-device-monitor*
 src/secrets.h
 Hardware
+platformio.ini
