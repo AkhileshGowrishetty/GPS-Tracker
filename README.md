@@ -2,6 +2,8 @@
 
 A GPS Tracker Prototype used for locating tracking vehicles.
 
+<img src="assets/images/image1.jpeg" width="30%">
+
 **Hardware:**
 1. ESP32
 1. SIM7600EI
